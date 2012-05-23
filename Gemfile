@@ -21,6 +21,12 @@ group :assets do
 end
 
 gem 'jquery-rails'
+<<<<<<< HEAD
+=======
+gem 'execjs'
+gem 'therubyracer'
+
+>>>>>>> origin/master
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'

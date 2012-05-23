@@ -1,6 +1,4 @@
 Blog::Application.routes.draw do
-<<<<<<< HEAD
-=======
  # get "posts/index"
 
  #get "posts/show"
@@ -14,9 +12,7 @@ Blog::Application.routes.draw do
   #get "posts/update"
 
   #get "posts/delete"
-  resources :posts
 
->>>>>>> origin/master
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
